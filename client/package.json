@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "UDP client",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fol21/udp-broadcastjs.git"
+  },
+  "author": "Fernando Lima <folivelima@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fol21/udp-broadcastjs/issues"
+  },
+  "homepage": "https://github.com/fol21/udp-broadcastjs#readme",
+  "dependencies": {
+    "node-nmap": "^4.0.0"
+  }
+}
